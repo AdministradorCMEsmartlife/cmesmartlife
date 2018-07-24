@@ -1,3 +1,8 @@
 [submodule "odooec"]
 	path = odooec
 	url = git@github.com:AdministradorCMEsmartlife/odooec.git
+
+[submodule "OCA/reporting-engine"]
+	path = OCA/reporting-engine
+	url = git@github.com:OCA/reporting-engine.git
+	branch = 10.0
