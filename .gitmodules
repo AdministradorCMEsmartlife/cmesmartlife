@@ -7,11 +7,6 @@
 	url = git@github.com:OCA/reporting-engine.git
 	branch = 10.0
 
-[submodule "OCA/server-tools"]
-	path = OCA/server-tools
-	url = git@github.com:OCA/server-tools.git
-	branch = 10.0
-
 [submodule "OCA/mis-builder"]
 	path = OCA/mis-builder
 	url = git@github.com:OCA/mis-builder.git
